@@ -24,8 +24,11 @@
 
 ## On My Learning Roadmap
 <p align="center">
-  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-555555?logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/Assembly-6E4C13" />
+  <img src="https://img.shields.io/badge/Linear_Algebra-7B3FE4" />
+  <img src="https://img.shields.io/badge/Discrete_Math-7B3FE4" />
+  <img src="https://img.shields.io/badge/Multivariable_Calculus-7B3FE4" />
 </p>
 
 ---
