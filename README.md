@@ -49,5 +49,6 @@
 
 ## About Me
 - Started coding at 14
-- I love ferrets and Jesus
+- I am a Christian
 - Working on meshworks, a large portfolio project!
+- Programmer for my robotics team
