@@ -17,6 +17,7 @@
   <br />
   <img src="https://img.shields.io/badge/I_use-Arch_btw-1793D1?logo=archlinux&logoColor=white" />
   <img src="https://img.shields.io/badge/raylib-000000" />
+  <img src="https://img.shields.io/badge/OpenGL-5586A4?logo=opengl&logoColor=white" />
 </p>
 
 ---
