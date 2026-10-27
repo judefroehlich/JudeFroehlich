@@ -11,8 +11,6 @@
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=white" />
   <br />
   <img src="https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/React_Native-61DAFB?logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white" />
   <br />
   <img src="https://img.shields.io/badge/I_use-Arch_btw-1793D1?logo=archlinux&logoColor=white" />
